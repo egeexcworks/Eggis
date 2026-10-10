@@ -1,5 +1,14 @@
 ﻿# Eggis runtime dependencies.
 # Install with:  python -m pip install -r requirements.txt
 
-# Text-to-speech (Windows SAPI backend via pyttsx3)
-pyttsx3==2.98
+# Text-to-speech (Windows SAPI backend)
+pyttsx3==2.99
+
+# Math and equation solving
+sympy==1.14.0
+
+# Environment variables
+python-dotenv==1.2.4
+
+# AI backend (Groq)
+groq==1.7.0
