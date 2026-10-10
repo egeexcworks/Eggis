@@ -1,4 +1,4 @@
-@'
+
 # Eggis
 
 Eggis is a personal AI assistant for Windows, written in Python. It runs as
